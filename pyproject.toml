@@ -1,0 +1,13 @@
+[project]
+name = "truly-rally-grit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.2.2",
+    "pandas>=2.2.3",
+    "pre-commit>=4.0.1",
+    "ruff>=0.9.2",
+    "sweetviz>=2.3.1",
+]
